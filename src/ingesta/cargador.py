@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-
+from src.helpers.utilidades import Utilidades
 
 class CargadorDatos:
     def __init__(self):
@@ -19,6 +19,10 @@ class CargadorDatos:
         print("Filtrando partidos únicamente de la Copa Mundial de la FIFA...")
         df_mundial = df_completo[df_completo['tournament'] == 'FIFA World Cup'].copy()
 
+        # Validamos que el archivo tenga lo mínimo antes de continuar
+        columnas_criticas = ['date', 'home_team', 'away_team', 'home_score', 'away_score', 'tournament']
+        Utilidades.validar_columnas_esenciales(df_mundial, columnas_criticas)
+
         # Se valida si existe el directorio
         os.makedirs(os.path.dirname(self.ruta_raw), exist_ok=True)
 
@@ -28,7 +32,7 @@ class CargadorDatos:
         return df_mundial
 
     def guardar_procesado(self, df: pd.DataFrame):
-        """Guarda el DataFrame final procesado (con columnas derivadas) en la carpeta processed."""
+        """Guarda el DataFrame final procesado en la carpeta processed."""
         os.makedirs(os.path.dirname(self.ruta_processed), exist_ok=True)
         df.to_csv(self.ruta_processed, index=False)
         print(f"Archivo procesado guardado exitosamente en: {self.ruta_processed}")

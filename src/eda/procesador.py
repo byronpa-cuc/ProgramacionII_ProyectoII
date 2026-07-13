@@ -8,6 +8,8 @@ class ProcesadorEDA:
 
     def limpieza_datos(self) -> pd.DataFrame:
         """Realiza la limpieza básica de tipos de datos y manejo de nulos."""
+
+        #Conversión de tipos de datos
         self.df['date'] = pd.to_datetime(self.df['date'])
         self.df['home_score'] = pd.to_numeric(self.df['home_score'], errors='coerce').fillna(0).astype(int)
         self.df['away_score'] = pd.to_numeric(self.df['away_score'], errors='coerce').fillna(0).astype(int)
@@ -19,12 +21,13 @@ class ProcesadorEDA:
         self.df['anio'] = self.df['date'].dt.year
         self.df['total_goles'] = self.df['home_score'] + self.df['away_score']
         self.df['diferencia_goles'] = self.df['home_score'] - self.df['away_score']
-
+        #Se establecen las condiciones correspondientes para definir el estado del partido
         condiciones = [
             self.df['home_score'] > self.df['away_score'],
             self.df['home_score'] < self.df['away_score']
         ]
         opciones = ['Local', 'Visitante']
+        #Funcion de numpy para crear otro objeto basado en las condiciones y opciones definidas anteriormente
         self.df['ganador'] = np.select(condiciones, opciones, default='Empate')
         return self.df
 
@@ -42,7 +45,7 @@ class ProcesadorEDA:
         curtosis = self.df['total_goles'].kurt()
 
         return {
-            "Asimetría (Skewness) de Goles": round(asimetria, 4),
+            "Asimetría de Goles": round(asimetria, 4),
             "Curtosis de Goles": round(curtosis, 4),
             "Interpretación": "Distribución asimétrica positiva (cola a la derecha), típica en deportes donde los marcadores abultados son poco frecuentes."
         }
@@ -52,6 +55,8 @@ class ProcesadorEDA:
         Detecta 'Outliers' o partidos con un volumen de goles anormalmente alto
         utilizando la regla del Rango Intercuartílico (IQR).
         """
+
+        #Se definen los cuantiles para definir el IQR5
         q1 = self.df['total_goles'].quantile(0.25)
         q3 = self.df['total_goles'].quantile(0.75)
         iqr = q3 - q1

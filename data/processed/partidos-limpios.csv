@@ -1045,14 +1045,25 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2026-07-01,England,DR Congo,2,1,FIFA World Cup,Atlanta,United States,True,2026,3,1,Local
 2026-07-01,Belgium,Senegal,3,2,FIFA World Cup,Seattle,United States,True,2026,5,1,Local
 2026-07-01,United States,Bosnia and Herzegovina,2,0,FIFA World Cup,Santa Clara,United States,False,2026,2,2,Local
-2026-07-02,Spain,Austria,0,0,FIFA World Cup,Inglewood,United States,True,2026,0,0,Empate
-2026-07-02,Portugal,Croatia,0,0,FIFA World Cup,Toronto,Canada,True,2026,0,0,Empate
-2026-07-02,Switzerland,Algeria,0,0,FIFA World Cup,Vancouver,Canada,True,2026,0,0,Empate
-2026-07-03,Australia,Egypt,0,0,FIFA World Cup,Arlington,United States,True,2026,0,0,Empate
-2026-07-03,Argentina,Cape Verde,0,0,FIFA World Cup,Miami Gardens,United States,True,2026,0,0,Empate
-2026-07-03,Colombia,Ghana,0,0,FIFA World Cup,Kansas City,United States,True,2026,0,0,Empate
-2026-07-04,Canada,Morocco,0,0,FIFA World Cup,Houston,United States,True,2026,0,0,Empate
-2026-07-04,Paraguay,France,0,0,FIFA World Cup,Philadelphia,United States,True,2026,0,0,Empate
-2026-07-05,Brazil,Norway,0,0,FIFA World Cup,East Rutherford,United States,True,2026,0,0,Empate
-2026-07-05,Mexico,England,0,0,FIFA World Cup,Mexico City,Mexico,False,2026,0,0,Empate
-2026-07-06,United States,Belgium,0,0,FIFA World Cup,Seattle,United States,False,2026,0,0,Empate
+2026-07-02,Spain,Austria,3,0,FIFA World Cup,Inglewood,United States,True,2026,3,3,Local
+2026-07-02,Portugal,Croatia,2,1,FIFA World Cup,Toronto,Canada,True,2026,3,1,Local
+2026-07-02,Switzerland,Algeria,2,0,FIFA World Cup,Vancouver,Canada,True,2026,2,2,Local
+2026-07-03,Australia,Egypt,1,1,FIFA World Cup,Arlington,United States,True,2026,2,0,Empate
+2026-07-03,Argentina,Cape Verde,3,2,FIFA World Cup,Miami Gardens,United States,True,2026,5,1,Local
+2026-07-03,Colombia,Ghana,1,0,FIFA World Cup,Kansas City,United States,True,2026,1,1,Local
+2026-07-04,Canada,Morocco,0,3,FIFA World Cup,Houston,United States,True,2026,3,-3,Visitante
+2026-07-04,Paraguay,France,0,1,FIFA World Cup,Philadelphia,United States,True,2026,1,-1,Visitante
+2026-07-05,Brazil,Norway,1,2,FIFA World Cup,East Rutherford,United States,True,2026,3,-1,Visitante
+2026-07-05,Mexico,England,2,3,FIFA World Cup,Mexico City,Mexico,False,2026,5,-1,Visitante
+2026-07-06,Portugal,Spain,0,1,FIFA World Cup,Dallas,United States,True,2026,1,-1,Visitante
+2026-07-06,United States,Belgium,1,4,FIFA World Cup,Seattle,United States,False,2026,5,-3,Visitante
+2026-07-07,Argentina,Egypt,3,2,FIFA World Cup,Atlanta,United States,True,2026,5,1,Local
+2026-07-07,Switzerland,Colombia,0,0,FIFA World Cup,Vancouver,Canada,True,2026,0,0,Empate
+2026-07-09,France,Morocco,2,0,FIFA World Cup,Foxborough,United States,True,2026,2,2,Local
+2026-07-10,Spain,Belgium,2,1,FIFA World Cup,Inglewood,United States,True,2026,3,1,Local
+2026-07-11,Norway,England,1,2,FIFA World Cup,Miami Gardens,United States,True,2026,3,-1,Visitante
+2026-07-11,Argentina,Switzerland,3,1,FIFA World Cup,Kansas City,United States,True,2026,4,2,Local
+2026-07-14,France,Spain,0,0,FIFA World Cup,Arlington,United States,True,2026,0,0,Empate
+2026-07-15,England,Argentina,0,0,FIFA World Cup,Atlanta,United States,True,2026,0,0,Empate
+2026-07-18,,,0,0,FIFA World Cup,Miami Gardens,United States,True,2026,0,0,Empate
+2026-07-19,,,0,0,FIFA World Cup,East Rutherford,United States,True,2026,0,0,Empate

@@ -97,8 +97,8 @@ Para revisar el análisis exploratorio formal de forma secuencial, abre los arch
 Detección de Anomalías (Outliers): Velamos por la integridad estadística implementando la regla de ±1.5 IQR para extraer de forma puramente matemática los partidos históricamente más inusuales por su abultado marcador.
 
 ## 👥 Desarrolladores
-Integrante 1:  - Identificación: 304920721
+Integrante 1: Byron Pérez Aguilar - Identificación: 304920721
 
-Integrante 2:  - Identififación: 
+Integrante 2: Edwin Calvo Jímenez - Identififación: 305080924 
 
 ###### Nota: Este proyecto fue desarrollado con fines académicos estrictamente bajo las pautas de la rúbrica de evaluación de Programación II del CUC.

@@ -1,7 +1,7 @@
 import pandas as pd
 
 class GestorPartidos:
-    def __init__(self, ruta_procesado: str = "data/processed/partidos-limpios.csv"):
+    def __init__(self, ruta_procesado: str = "../data/processed/partidos-limpios.csv"):
         # Carga el dataset ya limpio y procesado
         self._df = pd.read_csv(ruta_procesado)
 
