@@ -8,12 +8,21 @@ class ProcesadorEDA:
 
     def limpieza_datos(self) -> pd.DataFrame:
         """Realiza la limpieza básica de tipos de datos y manejo de nulos."""
+        from src.helpers.utilidades import Utilidades
 
-        #Conversión de tipos de datos
+        # 1. Eliminar filas donde los nombres de los equipos sean nulos (esenciales)
+        self.df = self.df.dropna(subset=['home_team', 'away_team'])
+
+        # 2. Conversión de tipos de datos numéricos y fechas
         self.df['date'] = pd.to_datetime(self.df['date'])
         self.df['home_score'] = pd.to_numeric(self.df['home_score'], errors='coerce').fillna(0).astype(int)
         self.df['away_score'] = pd.to_numeric(self.df['away_score'], errors='coerce').fillna(0).astype(int)
-        print("Limpieza de datos completada.")
+
+        # 3. Limpiar espacios en blanco extra usando el helper que creamos
+        self.df['home_team'] = self.df['home_team'].apply(Utilidades.limpiar_y_estandarizar_texto)
+        self.df['away_team'] = self.df['away_team'].apply(Utilidades.limpiar_y_estandarizar_texto)
+
+        print("Limpieza de datos completada (Nulos eliminados y nombres estandarizados).")
         return self.df
 
     def generar_columnas_derivadas(self) -> pd.DataFrame:

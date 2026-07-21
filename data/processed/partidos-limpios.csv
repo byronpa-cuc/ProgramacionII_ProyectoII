@@ -232,38 +232,38 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1970-06-20,Germany,Uruguay,1,0,FIFA World Cup,Mexico City,Mexico,True,1970,1,1,Local
 1970-06-21,Brazil,Italy,4,1,FIFA World Cup,Mexico City,Mexico,True,1970,5,3,Local
 1974-06-13,Brazil,Yugoslavia,0,0,FIFA World Cup,Frankfurt,Germany,True,1974,0,0,Empate
-1974-06-14,DR Congo,Scotland,0,2,FIFA World Cup,Dortmund,Germany,True,1974,2,-2,Visitante
-1974-06-14,German DR,Australia,2,0,FIFA World Cup,Hamburg,Germany,True,1974,2,2,Local
+1974-06-14,Dr Congo,Scotland,0,2,FIFA World Cup,Dortmund,Germany,True,1974,2,-2,Visitante
+1974-06-14,German Dr,Australia,2,0,FIFA World Cup,Hamburg,Germany,True,1974,2,2,Local
 1974-06-14,Germany,Chile,1,0,FIFA World Cup,Berlin,Germany,False,1974,1,1,Local
 1974-06-15,Italy,Haiti,3,1,FIFA World Cup,Munich,Germany,True,1974,4,2,Local
 1974-06-15,Poland,Argentina,3,2,FIFA World Cup,Stuttgart,Germany,True,1974,5,1,Local
 1974-06-15,Sweden,Bulgaria,0,0,FIFA World Cup,Düsseldorf,Germany,True,1974,0,0,Empate
 1974-06-15,Uruguay,Netherlands,0,2,FIFA World Cup,Hanover,Germany,True,1974,2,-2,Visitante
-1974-06-18,Chile,German DR,1,1,FIFA World Cup,Berlin,Germany,True,1974,2,0,Empate
+1974-06-18,Chile,German Dr,1,1,FIFA World Cup,Berlin,Germany,True,1974,2,0,Empate
 1974-06-18,Germany,Australia,3,0,FIFA World Cup,Hamburg,Germany,False,1974,3,3,Local
 1974-06-18,Scotland,Brazil,0,0,FIFA World Cup,Frankfurt,Germany,True,1974,0,0,Empate
-1974-06-18,Yugoslavia,DR Congo,9,0,FIFA World Cup,Gelsenkirchen,Germany,True,1974,9,9,Local
+1974-06-18,Yugoslavia,Dr Congo,9,0,FIFA World Cup,Gelsenkirchen,Germany,True,1974,9,9,Local
 1974-06-19,Argentina,Italy,1,1,FIFA World Cup,Stuttgart,Germany,True,1974,2,0,Empate
 1974-06-19,Bulgaria,Uruguay,1,1,FIFA World Cup,Hanover,Germany,True,1974,2,0,Empate
 1974-06-19,Haiti,Poland,0,7,FIFA World Cup,Munich,Germany,True,1974,7,-7,Visitante
 1974-06-19,Netherlands,Sweden,0,0,FIFA World Cup,Dortmund,Germany,True,1974,0,0,Empate
 1974-06-22,Australia,Chile,0,0,FIFA World Cup,Berlin,Germany,True,1974,0,0,Empate
-1974-06-22,DR Congo,Brazil,0,3,FIFA World Cup,Gelsenkirchen,Germany,True,1974,3,-3,Visitante
-1974-06-22,Germany,German DR,0,1,FIFA World Cup,Hamburg,Germany,False,1974,1,-1,Visitante
+1974-06-22,Dr Congo,Brazil,0,3,FIFA World Cup,Gelsenkirchen,Germany,True,1974,3,-3,Visitante
+1974-06-22,Germany,German Dr,0,1,FIFA World Cup,Hamburg,Germany,False,1974,1,-1,Visitante
 1974-06-22,Scotland,Yugoslavia,1,1,FIFA World Cup,Frankfurt,Germany,True,1974,2,0,Empate
 1974-06-23,Argentina,Haiti,4,1,FIFA World Cup,Munich,Germany,True,1974,5,3,Local
 1974-06-23,Bulgaria,Netherlands,1,4,FIFA World Cup,Dortmund,Germany,True,1974,5,-3,Visitante
 1974-06-23,Poland,Italy,2,1,FIFA World Cup,Stuttgart,Germany,True,1974,3,1,Local
 1974-06-23,Sweden,Uruguay,3,0,FIFA World Cup,Düsseldorf,Germany,True,1974,3,3,Local
-1974-06-26,Brazil,German DR,1,0,FIFA World Cup,Hanover,Germany,True,1974,1,1,Local
+1974-06-26,Brazil,German Dr,1,0,FIFA World Cup,Hanover,Germany,True,1974,1,1,Local
 1974-06-26,Germany,Yugoslavia,2,0,FIFA World Cup,Düsseldorf,Germany,False,1974,2,2,Local
 1974-06-26,Netherlands,Argentina,4,0,FIFA World Cup,Gelsenkirchen,Germany,True,1974,4,4,Local
 1974-06-26,Sweden,Poland,0,1,FIFA World Cup,Stuttgart,Germany,True,1974,1,-1,Visitante
 1974-06-30,Argentina,Brazil,1,2,FIFA World Cup,Hanover,Germany,True,1974,3,-1,Visitante
-1974-06-30,German DR,Netherlands,0,2,FIFA World Cup,Gelsenkirchen,Germany,True,1974,2,-2,Visitante
+1974-06-30,German Dr,Netherlands,0,2,FIFA World Cup,Gelsenkirchen,Germany,True,1974,2,-2,Visitante
 1974-06-30,Germany,Sweden,4,2,FIFA World Cup,Düsseldorf,Germany,False,1974,6,2,Local
 1974-06-30,Poland,Yugoslavia,2,1,FIFA World Cup,Frankfurt,Germany,True,1974,3,1,Local
-1974-07-03,Argentina,German DR,1,1,FIFA World Cup,Gelsenkirchen,Germany,True,1974,2,0,Empate
+1974-07-03,Argentina,German Dr,1,1,FIFA World Cup,Gelsenkirchen,Germany,True,1974,2,0,Empate
 1974-07-03,Germany,Poland,1,0,FIFA World Cup,Frankfurt,Germany,False,1974,1,1,Local
 1974-07-03,Netherlands,Brazil,2,0,FIFA World Cup,Dortmund,Germany,True,1974,2,2,Local
 1974-07-03,Sweden,Yugoslavia,2,1,FIFA World Cup,Düsseldorf,Germany,True,1974,3,1,Local
@@ -419,7 +419,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1990-06-10,Germany,Yugoslavia,4,1,FIFA World Cup,Milan,Italy,True,1990,5,3,Local
 1990-06-10,United States,Czechoslovakia,1,5,FIFA World Cup,Florence,Italy,True,1990,6,-4,Visitante
 1990-06-11,Costa Rica,Scotland,1,0,FIFA World Cup,Genoa,Italy,True,1990,1,1,Local
-1990-06-11,England,Republic of Ireland,1,1,FIFA World Cup,Cagliari,Italy,True,1990,2,0,Empate
+1990-06-11,England,Republic Of Ireland,1,1,FIFA World Cup,Cagliari,Italy,True,1990,2,0,Empate
 1990-06-12,Belgium,South Korea,2,0,FIFA World Cup,Verona,Italy,True,1990,2,2,Local
 1990-06-12,Netherlands,Egypt,1,1,FIFA World Cup,Palermo,Italy,True,1990,2,0,Empate
 1990-06-13,Argentina,Russia,2,0,FIFA World Cup,Naples,Italy,True,1990,2,2,Local
@@ -433,7 +433,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1990-06-16,England,Netherlands,0,0,FIFA World Cup,Cagliari,Italy,True,1990,0,0,Empate
 1990-06-16,Sweden,Scotland,1,2,FIFA World Cup,Genoa,Italy,True,1990,3,-1,Visitante
 1990-06-17,Belgium,Uruguay,3,1,FIFA World Cup,Verona,Italy,True,1990,4,2,Local
-1990-06-17,Republic of Ireland,Egypt,0,0,FIFA World Cup,Palermo,Italy,True,1990,0,0,Empate
+1990-06-17,Republic Of Ireland,Egypt,0,0,FIFA World Cup,Palermo,Italy,True,1990,0,0,Empate
 1990-06-17,South Korea,Spain,1,3,FIFA World Cup,Udine,Italy,True,1990,4,-2,Visitante
 1990-06-18,Argentina,Romania,1,1,FIFA World Cup,Naples,Italy,True,1990,2,0,Empate
 1990-06-18,Cameroon,Russia,0,4,FIFA World Cup,Bari,Italy,True,1990,4,-4,Visitante
@@ -445,17 +445,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1990-06-20,Sweden,Costa Rica,1,2,FIFA World Cup,Genoa,Italy,True,1990,3,-1,Visitante
 1990-06-21,Belgium,Spain,1,2,FIFA World Cup,Verona,Italy,True,1990,3,-1,Visitante
 1990-06-21,England,Egypt,1,0,FIFA World Cup,Cagliari,Italy,True,1990,1,1,Local
-1990-06-21,Republic of Ireland,Netherlands,1,1,FIFA World Cup,Palermo,Italy,True,1990,2,0,Empate
+1990-06-21,Republic Of Ireland,Netherlands,1,1,FIFA World Cup,Palermo,Italy,True,1990,2,0,Empate
 1990-06-21,South Korea,Uruguay,0,1,FIFA World Cup,Udine,Italy,True,1990,1,-1,Visitante
 1990-06-23,Cameroon,Colombia,2,1,FIFA World Cup,Naples,Italy,True,1990,3,1,Local
 1990-06-23,Czechoslovakia,Costa Rica,4,1,FIFA World Cup,Bari,Italy,True,1990,5,3,Local
 1990-06-24,Brazil,Argentina,0,1,FIFA World Cup,Turin,Italy,True,1990,1,-1,Visitante
 1990-06-24,Germany,Netherlands,2,1,FIFA World Cup,Milan,Italy,True,1990,3,1,Local
-1990-06-25,Republic of Ireland,Romania,0,0,FIFA World Cup,Genoa,Italy,True,1990,0,0,Empate
+1990-06-25,Republic Of Ireland,Romania,0,0,FIFA World Cup,Genoa,Italy,True,1990,0,0,Empate
 1990-06-25,Italy,Uruguay,2,0,FIFA World Cup,Rome,Italy,False,1990,2,2,Local
 1990-06-26,England,Belgium,1,0,FIFA World Cup,Bologna,Italy,True,1990,1,1,Local
 1990-06-26,Spain,Yugoslavia,1,2,FIFA World Cup,Verona,Italy,True,1990,3,-1,Visitante
-1990-06-30,Italy,Republic of Ireland,1,0,FIFA World Cup,Rome,Italy,False,1990,1,1,Local
+1990-06-30,Italy,Republic Of Ireland,1,0,FIFA World Cup,Rome,Italy,False,1990,1,1,Local
 1990-06-30,Yugoslavia,Argentina,0,0,FIFA World Cup,Florence,Italy,True,1990,0,0,Empate
 1990-07-01,Cameroon,England,2,3,FIFA World Cup,Naples,Italy,True,1990,5,-1,Visitante
 1990-07-01,Germany,Czechoslovakia,1,0,FIFA World Cup,Milan,Italy,True,1990,1,1,Local
@@ -466,7 +466,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1994-06-17,Germany,Bolivia,1,0,FIFA World Cup,Chicago,United States,True,1994,1,1,Local
 1994-06-17,Spain,South Korea,2,2,FIFA World Cup,Dallas,United States,True,1994,4,0,Empate
 1994-06-18,Colombia,Romania,1,3,FIFA World Cup,Pasadena,United States,True,1994,4,-2,Visitante
-1994-06-18,Italy,Republic of Ireland,0,1,FIFA World Cup,East Rutherford,United States,True,1994,1,-1,Visitante
+1994-06-18,Italy,Republic Of Ireland,0,1,FIFA World Cup,East Rutherford,United States,True,1994,1,-1,Visitante
 1994-06-18,United States,Switzerland,1,1,FIFA World Cup,Pontiac,United States,False,1994,2,0,Empate
 1994-06-19,Belgium,Morocco,1,0,FIFA World Cup,Orlando,United States,True,1994,1,1,Local
 1994-06-19,Cameroon,Sweden,2,2,FIFA World Cup,Pasadena,United States,True,1994,4,0,Empate
@@ -481,7 +481,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1994-06-23,Italy,Norway,1,0,FIFA World Cup,East Rutherford,United States,True,1994,1,1,Local
 1994-06-23,South Korea,Bolivia,0,0,FIFA World Cup,Foxborough,United States,True,1994,0,0,Empate
 1994-06-24,Brazil,Cameroon,3,0,FIFA World Cup,Palo Alto,United States,True,1994,3,3,Local
-1994-06-24,Mexico,Republic of Ireland,2,1,FIFA World Cup,Orlando,United States,True,1994,3,1,Local
+1994-06-24,Mexico,Republic Of Ireland,2,1,FIFA World Cup,Orlando,United States,True,1994,3,1,Local
 1994-06-24,Sweden,Russia,3,1,FIFA World Cup,Pontiac,United States,True,1994,4,2,Local
 1994-06-25,Argentina,Nigeria,2,1,FIFA World Cup,Foxborough,United States,True,1994,3,1,Local
 1994-06-25,Belgium,Netherlands,1,0,FIFA World Cup,Orlando,United States,True,1994,1,1,Local
@@ -492,7 +492,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1994-06-27,Bolivia,Spain,1,3,FIFA World Cup,Chicago,United States,True,1994,4,-2,Visitante
 1994-06-27,Germany,South Korea,3,2,FIFA World Cup,Dallas,United States,True,1994,5,1,Local
 1994-06-28,Brazil,Sweden,1,1,FIFA World Cup,Pontiac,United States,True,1994,2,0,Empate
-1994-06-28,Republic of Ireland,Norway,0,0,FIFA World Cup,East Rutherford,United States,True,1994,0,0,Empate
+1994-06-28,Republic Of Ireland,Norway,0,0,FIFA World Cup,East Rutherford,United States,True,1994,0,0,Empate
 1994-06-28,Italy,Mexico,1,1,FIFA World Cup,"Washington, D.C.",United States,True,1994,2,0,Empate
 1994-06-28,Russia,Cameroon,6,1,FIFA World Cup,Palo Alto,United States,True,1994,7,5,Local
 1994-06-29,Belgium,Saudi Arabia,0,1,FIFA World Cup,"Washington, D.C.",United States,True,1994,1,-1,Visitante
@@ -503,7 +503,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1994-07-02,Spain,Switzerland,3,0,FIFA World Cup,"Washington, D.C.",United States,True,1994,3,3,Local
 1994-07-03,Romania,Argentina,3,2,FIFA World Cup,Pasadena,United States,True,1994,5,1,Local
 1994-07-03,Saudi Arabia,Sweden,1,3,FIFA World Cup,Dallas,United States,True,1994,4,-2,Visitante
-1994-07-04,Netherlands,Republic of Ireland,2,0,FIFA World Cup,Orlando,United States,True,1994,2,2,Local
+1994-07-04,Netherlands,Republic Of Ireland,2,0,FIFA World Cup,Orlando,United States,True,1994,2,2,Local
 1994-07-04,United States,Brazil,0,1,FIFA World Cup,Palo Alto,United States,False,1994,1,-1,Visitante
 1994-07-05,Mexico,Bulgaria,1,1,FIFA World Cup,East Rutherford,United States,True,1994,2,0,Empate
 1994-07-05,Nigeria,Italy,1,2,FIFA World Cup,Foxborough,United States,True,1994,3,-1,Visitante
@@ -581,7 +581,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 1998-07-12,France,Brazil,3,0,FIFA World Cup,Saint-Denis,France,False,1998,3,3,Local
 2002-05-31,France,Senegal,0,1,FIFA World Cup,Seoul,South Korea,True,2002,1,-1,Visitante
 2002-06-01,Germany,Saudi Arabia,8,0,FIFA World Cup,Sapporo,Japan,True,2002,8,8,Local
-2002-06-01,Republic of Ireland,Cameroon,1,1,FIFA World Cup,Niigata,Japan,True,2002,2,0,Empate
+2002-06-01,Republic Of Ireland,Cameroon,1,1,FIFA World Cup,Niigata,Japan,True,2002,2,0,Empate
 2002-06-01,Uruguay,Denmark,1,2,FIFA World Cup,Ulsan,South Korea,True,2002,3,-1,Visitante
 2002-06-02,Argentina,Nigeria,1,0,FIFA World Cup,Kashima,Japan,True,2002,1,1,Local
 2002-06-02,England,Sweden,1,1,FIFA World Cup,Saitama,Japan,True,2002,2,0,Empate
@@ -593,7 +593,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2002-06-04,China,Costa Rica,0,2,FIFA World Cup,Gwangju,South Korea,True,2002,2,-2,Visitante
 2002-06-04,Japan,Belgium,2,2,FIFA World Cup,Saitama,Japan,False,2002,4,0,Empate
 2002-06-04,South Korea,Poland,2,0,FIFA World Cup,Busan,South Korea,False,2002,2,2,Local
-2002-06-05,Germany,Republic of Ireland,1,1,FIFA World Cup,Kashima,Japan,True,2002,2,0,Empate
+2002-06-05,Germany,Republic Of Ireland,1,1,FIFA World Cup,Kashima,Japan,True,2002,2,0,Empate
 2002-06-05,Russia,Tunisia,2,0,FIFA World Cup,Kobe,Japan,True,2002,2,2,Local
 2002-06-05,United States,Portugal,3,2,FIFA World Cup,Suwon,South Korea,True,2002,5,1,Local
 2002-06-06,Cameroon,Saudi Arabia,1,0,FIFA World Cup,Saitama,Japan,True,2002,1,1,Local
@@ -613,7 +613,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2002-06-10,Tunisia,Belgium,1,1,FIFA World Cup,Ōita,Japan,True,2002,2,0,Empate
 2002-06-11,Cameroon,Germany,0,2,FIFA World Cup,Fukuroi,Japan,True,2002,2,-2,Visitante
 2002-06-11,Denmark,France,2,0,FIFA World Cup,Incheon,South Korea,True,2002,2,2,Local
-2002-06-11,Saudi Arabia,Republic of Ireland,0,3,FIFA World Cup,Yokohama,Japan,True,2002,3,-3,Visitante
+2002-06-11,Saudi Arabia,Republic Of Ireland,0,3,FIFA World Cup,Yokohama,Japan,True,2002,3,-3,Visitante
 2002-06-11,Senegal,Uruguay,3,3,FIFA World Cup,Suwon,South Korea,True,2002,6,0,Empate
 2002-06-12,Nigeria,England,0,0,FIFA World Cup,Osaka,Japan,True,2002,0,0,Empate
 2002-06-12,Slovenia,Paraguay,1,3,FIFA World Cup,Seogwipo,South Korea,True,2002,4,-2,Visitante
@@ -629,7 +629,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2002-06-14,Poland,United States,3,1,FIFA World Cup,Daejeon,South Korea,True,2002,4,2,Local
 2002-06-15,Denmark,England,0,3,FIFA World Cup,Niigata,Japan,True,2002,3,-3,Visitante
 2002-06-15,Germany,Paraguay,1,0,FIFA World Cup,Seogwipo,South Korea,True,2002,1,1,Local
-2002-06-16,Spain,Republic of Ireland,1,1,FIFA World Cup,Suwon,South Korea,True,2002,2,0,Empate
+2002-06-16,Spain,Republic Of Ireland,1,1,FIFA World Cup,Suwon,South Korea,True,2002,2,0,Empate
 2002-06-16,Sweden,Senegal,1,2,FIFA World Cup,Ōita,Japan,True,2002,3,-1,Visitante
 2002-06-17,Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,True,2002,2,2,Local
 2002-06-17,Mexico,United States,0,2,FIFA World Cup,Jeonju,South Korea,True,2002,2,-2,Visitante
@@ -647,7 +647,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2006-06-09,Poland,Ecuador,0,2,FIFA World Cup,Gelsenkirchen,Germany,True,2006,2,-2,Visitante
 2006-06-10,Argentina,Ivory Coast,2,1,FIFA World Cup,Hamburg,Germany,True,2006,3,1,Local
 2006-06-10,England,Paraguay,1,0,FIFA World Cup,Frankfurt,Germany,True,2006,1,1,Local
-2006-06-10,Trinidad and Tobago,Sweden,0,0,FIFA World Cup,Dortmund,Germany,True,2006,0,0,Empate
+2006-06-10,Trinidad And Tobago,Sweden,0,0,FIFA World Cup,Dortmund,Germany,True,2006,0,0,Empate
 2006-06-11,Angola,Portugal,0,1,FIFA World Cup,Cologne,Germany,True,2006,1,-1,Visitante
 2006-06-11,Mexico,Iran,3,1,FIFA World Cup,Nuremberg,Germany,True,2006,4,2,Local
 2006-06-11,Serbia,Netherlands,0,1,FIFA World Cup,Leipzig,Germany,True,2006,1,-1,Visitante
@@ -661,7 +661,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2006-06-14,Spain,Ukraine,4,0,FIFA World Cup,Leipzig,Germany,True,2006,4,4,Local
 2006-06-14,Tunisia,Saudi Arabia,2,2,FIFA World Cup,Munich,Germany,True,2006,4,0,Empate
 2006-06-15,Ecuador,Costa Rica,3,0,FIFA World Cup,Hamburg,Germany,True,2006,3,3,Local
-2006-06-15,England,Trinidad and Tobago,2,0,FIFA World Cup,Nuremberg,Germany,True,2006,2,2,Local
+2006-06-15,England,Trinidad And Tobago,2,0,FIFA World Cup,Nuremberg,Germany,True,2006,2,2,Local
 2006-06-15,Sweden,Paraguay,1,0,FIFA World Cup,Berlin,Germany,True,2006,1,1,Local
 2006-06-16,Argentina,Serbia,6,0,FIFA World Cup,Gelsenkirchen,Germany,True,2006,6,6,Local
 2006-06-16,Mexico,Angola,0,0,FIFA World Cup,Hanover,Germany,True,2006,0,0,Empate
@@ -677,7 +677,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2006-06-19,Togo,Switzerland,0,2,FIFA World Cup,Dortmund,Germany,True,2006,2,-2,Visitante
 2006-06-20,Costa Rica,Poland,1,2,FIFA World Cup,Hanover,Germany,True,2006,3,-1,Visitante
 2006-06-20,Germany,Ecuador,3,0,FIFA World Cup,Berlin,Germany,False,2006,3,3,Local
-2006-06-20,Paraguay,Trinidad and Tobago,2,0,FIFA World Cup,Kaiserslautern,Germany,True,2006,2,2,Local
+2006-06-20,Paraguay,Trinidad And Tobago,2,0,FIFA World Cup,Kaiserslautern,Germany,True,2006,2,2,Local
 2006-06-20,Sweden,England,2,2,FIFA World Cup,Cologne,Germany,True,2006,4,0,Empate
 2006-06-21,Iran,Angola,1,1,FIFA World Cup,Leipzig,Germany,True,2006,2,0,Empate
 2006-06-21,Ivory Coast,Serbia,3,2,FIFA World Cup,Munich,Germany,True,2006,5,1,Local
@@ -779,7 +779,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2014-06-14,England,Italy,1,2,FIFA World Cup,Manaus,Brazil,True,2014,3,-1,Visitante
 2014-06-14,Ivory Coast,Japan,2,1,FIFA World Cup,Recife,Brazil,True,2014,3,1,Local
 2014-06-14,Uruguay,Costa Rica,1,3,FIFA World Cup,Fortaleza,Brazil,True,2014,4,-2,Visitante
-2014-06-15,Argentina,Bosnia and Herzegovina,2,1,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,3,1,Local
+2014-06-15,Argentina,Bosnia And Herzegovina,2,1,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,3,1,Local
 2014-06-15,France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,True,2014,3,3,Local
 2014-06-15,Switzerland,Ecuador,2,1,FIFA World Cup,Brasília,Brazil,True,2014,3,1,Local
 2014-06-16,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,True,2014,4,4,Local
@@ -799,7 +799,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2014-06-20,Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,True,2014,7,-3,Visitante
 2014-06-21,Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,True,2014,1,1,Local
 2014-06-21,Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,True,2014,4,0,Empate
-2014-06-21,Nigeria,Bosnia and Herzegovina,1,0,FIFA World Cup,Cuiabá,Brazil,True,2014,1,1,Local
+2014-06-21,Nigeria,Bosnia And Herzegovina,1,0,FIFA World Cup,Cuiabá,Brazil,True,2014,1,1,Local
 2014-06-22,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,1,1,Local
 2014-06-22,South Korea,Algeria,2,4,FIFA World Cup,Porto Alegre,Brazil,True,2014,6,-2,Visitante
 2014-06-22,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,True,2014,4,0,Empate
@@ -811,7 +811,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2014-06-24,Greece,Ivory Coast,2,1,FIFA World Cup,Fortaleza,Brazil,True,2014,3,1,Local
 2014-06-24,Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,True,2014,1,-1,Visitante
 2014-06-24,Japan,Colombia,1,4,FIFA World Cup,Cuiabá,Brazil,True,2014,5,-3,Visitante
-2014-06-25,Bosnia and Herzegovina,Iran,3,1,FIFA World Cup,Salvador,Brazil,True,2014,4,2,Local
+2014-06-25,Bosnia And Herzegovina,Iran,3,1,FIFA World Cup,Salvador,Brazil,True,2014,4,2,Local
 2014-06-25,Ecuador,France,0,0,FIFA World Cup,Rio de Janeiro,Brazil,True,2014,0,0,Empate
 2014-06-25,Honduras,Switzerland,0,3,FIFA World Cup,Manaus,Brazil,True,2014,3,-3,Visitante
 2014-06-25,Nigeria,Argentina,2,3,FIFA World Cup,Porto Alegre,Brazil,True,2014,5,-1,Visitante
@@ -965,7 +965,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2022-12-18,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,True,2022,6,0,Empate
 2026-06-11,Mexico,South Africa,2,0,FIFA World Cup,Mexico City,Mexico,False,2026,2,2,Local
 2026-06-11,South Korea,Czech Republic,2,1,FIFA World Cup,Zapopan,Mexico,True,2026,3,1,Local
-2026-06-12,Canada,Bosnia and Herzegovina,1,1,FIFA World Cup,Toronto,Canada,False,2026,2,0,Empate
+2026-06-12,Canada,Bosnia And Herzegovina,1,1,FIFA World Cup,Toronto,Canada,False,2026,2,0,Empate
 2026-06-12,United States,Paraguay,4,1,FIFA World Cup,Inglewood,United States,False,2026,5,3,Local
 2026-06-13,Qatar,Switzerland,1,1,FIFA World Cup,Santa Clara,United States,True,2026,2,0,Empate
 2026-06-13,Brazil,Morocco,1,1,FIFA World Cup,East Rutherford,United States,True,2026,2,0,Empate
@@ -983,13 +983,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2026-06-16,Iraq,Norway,1,4,FIFA World Cup,Foxborough,United States,True,2026,5,-3,Visitante
 2026-06-16,Argentina,Algeria,3,0,FIFA World Cup,Kansas City,United States,True,2026,3,3,Local
 2026-06-16,Austria,Jordan,3,1,FIFA World Cup,Santa Clara,United States,True,2026,4,2,Local
-2026-06-17,Portugal,DR Congo,1,1,FIFA World Cup,Houston,United States,True,2026,2,0,Empate
+2026-06-17,Portugal,Dr Congo,1,1,FIFA World Cup,Houston,United States,True,2026,2,0,Empate
 2026-06-17,Uzbekistan,Colombia,1,3,FIFA World Cup,Mexico City,Mexico,True,2026,4,-2,Visitante
 2026-06-17,England,Croatia,4,2,FIFA World Cup,Arlington,United States,True,2026,6,2,Local
 2026-06-17,Ghana,Panama,1,0,FIFA World Cup,Toronto,Canada,True,2026,1,1,Local
 2026-06-18,Czech Republic,South Africa,1,1,FIFA World Cup,Atlanta,United States,True,2026,2,0,Empate
 2026-06-18,Mexico,South Korea,1,0,FIFA World Cup,Zapopan,Mexico,False,2026,1,1,Local
-2026-06-18,Switzerland,Bosnia and Herzegovina,4,1,FIFA World Cup,Inglewood,United States,True,2026,5,3,Local
+2026-06-18,Switzerland,Bosnia And Herzegovina,4,1,FIFA World Cup,Inglewood,United States,True,2026,5,3,Local
 2026-06-18,Canada,Qatar,6,0,FIFA World Cup,Vancouver,Canada,False,2026,6,6,Local
 2026-06-19,Scotland,Morocco,0,1,FIFA World Cup,Foxborough,United States,True,2026,1,-1,Visitante
 2026-06-19,Brazil,Haiti,3,0,FIFA World Cup,Philadelphia,United States,True,2026,3,3,Local
@@ -1008,13 +1008,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2026-06-22,Argentina,Austria,2,0,FIFA World Cup,Arlington,United States,True,2026,2,2,Local
 2026-06-22,Jordan,Algeria,1,2,FIFA World Cup,Santa Clara,United States,True,2026,3,-1,Visitante
 2026-06-23,Portugal,Uzbekistan,5,0,FIFA World Cup,Houston,United States,True,2026,5,5,Local
-2026-06-23,Colombia,DR Congo,1,0,FIFA World Cup,Zapopan,Mexico,True,2026,1,1,Local
+2026-06-23,Colombia,Dr Congo,1,0,FIFA World Cup,Zapopan,Mexico,True,2026,1,1,Local
 2026-06-23,England,Ghana,0,0,FIFA World Cup,Foxborough,United States,True,2026,0,0,Empate
 2026-06-23,Panama,Croatia,0,1,FIFA World Cup,Toronto,Canada,True,2026,1,-1,Visitante
 2026-06-24,Mexico,Czech Republic,3,0,FIFA World Cup,Mexico City,Mexico,False,2026,3,3,Local
 2026-06-24,South Africa,South Korea,1,0,FIFA World Cup,Guadalupe,Mexico,True,2026,1,1,Local
 2026-06-24,Canada,Switzerland,1,2,FIFA World Cup,Vancouver,Canada,False,2026,3,-1,Visitante
-2026-06-24,Bosnia and Herzegovina,Qatar,3,1,FIFA World Cup,Seattle,United States,True,2026,4,2,Local
+2026-06-24,Bosnia And Herzegovina,Qatar,3,1,FIFA World Cup,Seattle,United States,True,2026,4,2,Local
 2026-06-24,Scotland,Brazil,0,3,FIFA World Cup,Miami Gardens,United States,True,2026,3,-3,Visitante
 2026-06-24,Morocco,Haiti,4,2,FIFA World Cup,Atlanta,United States,True,2026,6,2,Local
 2026-06-25,United States,Turkey,2,3,FIFA World Cup,Inglewood,United States,False,2026,5,-1,Visitante
@@ -1032,7 +1032,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2026-06-27,Algeria,Austria,3,3,FIFA World Cup,Kansas City,United States,True,2026,6,0,Empate
 2026-06-27,Jordan,Argentina,1,3,FIFA World Cup,Arlington,United States,True,2026,4,-2,Visitante
 2026-06-27,Colombia,Portugal,0,0,FIFA World Cup,Miami Gardens,United States,True,2026,0,0,Empate
-2026-06-27,DR Congo,Uzbekistan,3,1,FIFA World Cup,Atlanta,United States,True,2026,4,2,Local
+2026-06-27,Dr Congo,Uzbekistan,3,1,FIFA World Cup,Atlanta,United States,True,2026,4,2,Local
 2026-06-27,Panama,England,0,2,FIFA World Cup,East Rutherford,United States,True,2026,2,-2,Visitante
 2026-06-27,Croatia,Ghana,2,1,FIFA World Cup,Philadelphia,United States,True,2026,3,1,Local
 2026-06-28,South Africa,Canada,0,1,FIFA World Cup,Inglewood,United States,True,2026,1,-1,Visitante
@@ -1042,9 +1042,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2026-06-30,Ivory Coast,Norway,1,2,FIFA World Cup,Arlington,United States,True,2026,3,-1,Visitante
 2026-06-30,France,Sweden,3,0,FIFA World Cup,East Rutherford,United States,True,2026,3,3,Local
 2026-06-30,Mexico,Ecuador,2,0,FIFA World Cup,Mexico City,Mexico,False,2026,2,2,Local
-2026-07-01,England,DR Congo,2,1,FIFA World Cup,Atlanta,United States,True,2026,3,1,Local
+2026-07-01,England,Dr Congo,2,1,FIFA World Cup,Atlanta,United States,True,2026,3,1,Local
 2026-07-01,Belgium,Senegal,3,2,FIFA World Cup,Seattle,United States,True,2026,5,1,Local
-2026-07-01,United States,Bosnia and Herzegovina,2,0,FIFA World Cup,Santa Clara,United States,False,2026,2,2,Local
+2026-07-01,United States,Bosnia And Herzegovina,2,0,FIFA World Cup,Santa Clara,United States,False,2026,2,2,Local
 2026-07-02,Spain,Austria,3,0,FIFA World Cup,Inglewood,United States,True,2026,3,3,Local
 2026-07-02,Portugal,Croatia,2,1,FIFA World Cup,Toronto,Canada,True,2026,3,1,Local
 2026-07-02,Switzerland,Algeria,2,0,FIFA World Cup,Vancouver,Canada,True,2026,2,2,Local
@@ -1065,5 +1065,3 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,a
 2026-07-11,Argentina,Switzerland,3,1,FIFA World Cup,Kansas City,United States,True,2026,4,2,Local
 2026-07-14,France,Spain,0,0,FIFA World Cup,Arlington,United States,True,2026,0,0,Empate
 2026-07-15,England,Argentina,0,0,FIFA World Cup,Atlanta,United States,True,2026,0,0,Empate
-2026-07-18,,,0,0,FIFA World Cup,Miami Gardens,United States,True,2026,0,0,Empate
-2026-07-19,,,0,0,FIFA World Cup,East Rutherford,United States,True,2026,0,0,Empate
