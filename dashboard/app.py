@@ -90,10 +90,7 @@ st.markdown("---")
 # 6. Estructura de Pestañas
 tab_analisis, tab_consultas = st.tabs(["Análisis Histórico e Historias", "Buscador e Historial"])
 
-
-# ==========================================
-# PESTAÑA 1: ANÁLISIS HISTÓRICO
-# ==========================================
+# Pestaña 1: ANÁLISIS HISTÓRICO
 with tab_analisis:
     st.header("Análisis de Tendencias e Historias de Datos")
     st.caption("Evaluación visual de las hipótesis clave sobre el desempeño histórico del torneo.")
@@ -219,9 +216,7 @@ with tab_analisis:
             )
 
 
-# ==========================================
-# PESTAÑA 2: BUSCADOR E HISTORIAL
-# ==========================================
+#Pestaña 2 Buscador e historial
 with tab_consultas:
     st.header("Módulo de Consultas Personalizadas")
     st.caption("Filtre la base de datos procesada según los criterios seleccionados.")

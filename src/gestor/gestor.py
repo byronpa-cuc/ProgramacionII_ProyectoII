@@ -3,7 +3,7 @@ from src.helpers.utilidades import Utilidades
 
 class GestorPartidos:
     def __init__(self, ruta_procesado: str = None):
-        # Si no se le pasa una ruta específica, resolvemos la ruta de forma absoluta y segura
+        # Si no se le pasa una ruta específica, se parametriza
         if ruta_procesado is None:
             ruta_procesado = Utilidades.obtener_ruta_raiz("data/processed/partidos-limpios.csv")
 
